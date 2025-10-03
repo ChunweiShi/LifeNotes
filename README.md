@@ -1,7 +1,9 @@
 # Preface
 
-This book is a supplement to "Linear Algebra Done Right" and is written by me as I am still learning the subject.&#x20;
+The purpose of this book is to make knowledge more fun.
 
-It aims to deepen my and the reader's understanding of linear algebra by addressing difficult problems and concepts with additional explanations. I apologize in advance for any errors in the book.
+There will be 4 sections, each one represents the class I'm taking currently.
 
-With that, let's start our journey!
+I hope this document can help you feel the fun in learning, especially if you are taking these classes right now or at some point in the future.
+
+Let's jump right in!
