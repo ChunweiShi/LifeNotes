@@ -1,3 +1,7 @@
+---
+description: https://sooon.ai/home/collection/5b0e3daa-a538-48a0-ac1a-30c5de225d57
+---
+
 # Preface
 
 The purpose of this book is to make knowledge more fun.
